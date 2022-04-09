@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/Kimberly-368/-KAV-devcamp-js-footer#readme",
   "dependencies": {
-    "moment": "^2.26.0"
+    "moment": "^2.29.2"
   }
 }
